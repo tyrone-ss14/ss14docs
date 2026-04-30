@@ -1,9 +1,9 @@
 #Contraband Authorization Permit
-[color=#8b0000]█▄ █  ▀█▀[/color]  [head=3]CONTRABAND AUTHORIZATION PERMIT[/head]
-[color=#8b0000]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Contraband Permit[/bold][/color] 
-[color=#8b0000]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+[color=#134975]█▄ █  ▀█▀[/color]  [head=3]CONTRABAND AUTHORIZATION PERMIT[/head]
+[color=#134975]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Contraband Permit[/bold][/color] 
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 Used to grant a crew member explicit authorization to possess items or equipment that would normally be considered restricted or contraband. Authorization is conditional and may be revoked at any time by Command.
-[color=#8b0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]Authorized Individual[/head]
 [bold]Name:[/bold] 
 [bold]Job Title:[/bold] 
@@ -11,17 +11,17 @@ Used to grant a crew member explicit authorization to possess items or equipment
 [head=3]Authorizing Authority[/head]
 [bold]Name:[/bold] 
 [bold]Job Title:[/bold] 
-[color=#8b0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]Authorized Item(s)[/head]
 [color=DimGray][italic]List the specific item(s) being authorized.[/italic][/color]
 ──────────────────────────────────────────
 • 
-[color=#8b0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]Reason for Authorization[/head]
 [color=DimGray][italic]Provide a clear explanation for why this authorization is being granted.[/italic][/color]
 ──────────────────────────────────────────
 
-[color=#8b0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]Conditions of Use[/head]
 [color=DimGray][italic]Select all that apply.[/italic][/color]
 ──────────────────────────────────────────
@@ -30,7 +30,7 @@ Used to grant a crew member explicit authorization to possess items or equipment
 \[  ] Subject to inspection by Security at any time
 \[  ] Cannot be transferred to other personnel
 \[  ] Other [color=DimGray][italic](specify)[/italic][/color]: 
-[color=#8b0000]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]Acknowledgement[/head]
 ──────────────────────────────────────────
 I acknowledge that I understand the conditions of this authorization. I am aware that misuse, negligence, or violation of these conditions may result in confiscation of authorized items, disciplinary action, or revocation of this permit.
