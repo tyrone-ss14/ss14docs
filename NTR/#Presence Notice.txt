@@ -5,11 +5,11 @@
 Used by the NanoTrasen Representative to formally announce their presence on station.
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]NANOTRASEN REPRESENTATIVE[/head]
-[bold]Name:[/bold] [mono]Tyrone Labubu[/mono]
+[bold]Name:[/bold] [mono]Your Name[/mono]
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]MESSAGE[/head] 
 ──────────────────────────────────────────
-[mono]NanoTrasen Representative Tyrone Labubu has arrived on station and begun formal observation of operations.
+[mono]NanoTrasen Representative Your Name has arrived on station and begun formal observation of operations.
 
 All findings will be documented and relayed as required.
 
