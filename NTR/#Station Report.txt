@@ -8,7 +8,7 @@
 [color=DimGray]──────────────────────────────────────────[/color]
 [mono][/mono] — [bold]Shift #[/bold][mono][/mono]
 [bold]Shift Duration:[/bold] [mono]00:00:00[/mono]
-[bold]Filed by:[/bold] [mono][color=#2ec398]NT Rep.[/color] Tyrone Labubu[/mono]
+[bold]Filed by:[/bold] [mono][color=#2ec398]NT Rep.[/color] Your Name[/mono]
 ──────────────────────────────────────────
 [color=DimGray][bold]Oversight Authority:[/bold] [mono][color=#009100]Central Command[/color][/mono][/color]
 [color=DimGray][bold]Report Status:[/bold] [mono][color=green]Filed[/color][/mono][/color]
@@ -117,5 +117,5 @@
 [color=DimGray]──────────────────────────────────────────[/color]
 [mono]> [/mono]
 ──────────────────────────────────────────
-[bold]Signed,[/bold] [mono][color=#2ec398]NT Rep.[/color] Tyrone Labubu[/mono]
+[bold]Signed,[/bold] [mono][color=#2ec398]NT Rep.[/color] Your Name[/mono]
 [color=DimGray][bold]Authentication:[/bold] [mono][color=green]VALIDATED[/color][/color]
