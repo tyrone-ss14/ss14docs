@@ -1,0 +1,23 @@
+#Station Event Notice
+[color=#134975]█▄ █  ▀█▀[/color]  [head=3]STATION EVENT NOTICE[/head]
+[color=#134975]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]General Crew Notification[/bold][/color] 
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+This notice is issued to inform all crew of a scheduled or spontaneous station event.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]EVENT DETAILS[/head]
+──────────────────────────────────────────
+[bold]Event Name:[/bold] 
+[bold]Location:[/bold] 
+[bold]Scheduled Time:[/bold] 
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]DESCRIPTION[/head]
+──────────────────────────────────────────
+
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]PARTICIPATION[/head]
+──────────────────────────────────────────
+\[  ] Open to all crew
+\[  ] Department-specific
+\[  ] Invitation only
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+All personnel are advised to maintain station safety and operational awareness during participation.
