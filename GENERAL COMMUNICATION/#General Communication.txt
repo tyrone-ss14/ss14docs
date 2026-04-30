@@ -2,7 +2,7 @@
 [color=#134975]█▄ █  ▀█▀[/color]  [head=3]GENERAL COMMUNICATION[/head]
 [color=#134975]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]General Communication[/bold][/color]
 [color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
-Communication form used by NanoTrasen Personnell.
+Communication form used by NanoTrasen Personnel.
 [color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]INFORMATION[/head]
 [bold]To:[/bold] [mono][/mono]
