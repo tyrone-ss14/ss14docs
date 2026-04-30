@@ -1,0 +1,22 @@
+#Liability Waiver
+[color=#134975]█▄ █  ▀█▀[/color]  [head=3]LIABILITY WAIVER[/head]
+[color=#134975]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Risk Acknowledgement Form[/bold][/color] 
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+This document confirms that the undersigned individual acknowledges and accepts the risks associated with participation in a hazardous activity or experiment conducted on station.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]PARTICIPANT INFORMATION[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]ACTIVITY DESCRIPTION[/head]
+[color=DimGray][italic]Briefly describe the activity, experiment, or operation.[/italic][/color]
+──────────────────────────────────────────
+
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]STATEMENT[/head]
+──────────────────────────────────────────
+I acknowledge that participation in the above activity involves inherent risks. I understand that outcomes may include injury, loss of function, or death. I voluntarily agree to proceed and accept full responsibility for any resulting consequences.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]CORPORATE NOTICE[/head]
+──────────────────────────────────────────
+NanoTrasen and its representatives are not liable for damages, injuries, or loss of life resulting from participation in the described activity, except in cases of proven gross negligence or intentional misconduct.
