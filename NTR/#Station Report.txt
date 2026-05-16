@@ -6,7 +6,7 @@
 [color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 [head=3]1. REPORT INFORMATION[/head]
 [color=DimGray]──────────────────────────────────────────[/color]
-[mono][/mono] — [bold]Shift #[/bold][mono][/mono]
+[mono]Station[/mono] — [bold]Shift #[/bold][mono]0[/mono]
 [bold]Shift Duration:[/bold] [mono]00:00:00[/mono]
 [bold]Filed by:[/bold] [mono][color=#2ec398]NT Rep.[/color] Your Name[/mono]
 ──────────────────────────────────────────

@@ -2,10 +2,10 @@
 [color=#5b97bc]█▄ █  ▀█▀[/color]  [head=3]PSYCHOLOGICAL NOTICE[/head]
 [color=#5b97bc]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Psychological Status Notice[/bold][/color]
 [color=#5b97bc]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
-[color=#eaedde]░░░░░░░░[/color][color=DimGray][head=2]Not feeling like yourself?[/head][/color]
-[color=#eaedde]░░░░░░[/color][italic][color=DimGray] Feeling overwhelmed, stressed, or unfocused?[/color][/italic]
+                       [color=DimGray][head=2]Not feeling like yourself?[/head][/color]
+                  [italic][color=DimGray] Feeling overwhelmed, stressed, or unfocused?[/color][/italic]
 
-[color=#eaedde]░░░░░░░[/color][head=1]TALK TO SOMEONE[/head]
+                     [head=1]TALK TO SOMEONE[/head]
 [color=#5b97bc]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [bold]Station Psychological Services[/bold] provide evaluation, counseling, and mental health support for all crew members.
 ──────────────────────────────────────────
