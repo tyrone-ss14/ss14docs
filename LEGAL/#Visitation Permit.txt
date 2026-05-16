@@ -1,0 +1,20 @@
+#Visitation Permit
+[color=#134975]█▄ █  ▀█▀[/color]  [head=3]VISITATION PERMIT[/head]
+[color=#134975]█ ▀█[color=#eaedde]  ░[/color]█[/color][color=#eaedde]░  [/color][color=DimGray][bold]Visitor Permit[/bold][/color]
+[color=#134975]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Used to authorize a person for visitation rights on NanoTrasen's vessels. This document also confirms that the visitor in question has agreed to following NanoTrasen's official policies and guidelines.
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]VISITOR INFORMATION[/head]
+[bold]Name:[/bold]
+[bold]Corporate Affiliation:[/bold]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]GUIDELINE AGREEMENT[/head]
+──────────────────────────────────────────
+By signing this document, the Visitor officially agrees to follow the NanoTrasen Space Law and Standard Operating Procedure in their entirety. Failure to follow said guidelines will result in punishment according to the violation.
+
+[color=DimGray][italic]Departmental SOP (Standard Operating Procedure) only apply when the person in question is officially employed at NanoTrasen. 
+Visitors are not official NanoTrasen employees.[/italic][/color]
+[color=#134975]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]CAPTAIN'S AUTHORIZATION[/head]
+──────────────────────────────────────────
+This permit is valid only when approved and stamped by the Captain. Unauthorized or incomplete documents are void.
