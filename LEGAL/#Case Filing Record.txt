@@ -1,0 +1,22 @@
+#Case Filing Record
+[color=#a0554f]█▄ █ ▀█▀[/color] [head=3]CASE FILING RECORD[/head]
+[color=#a0554f]█ ▀█[color=#eaedde] ░[/color]█[/color][color=#eaedde]░ [/color][color=DimGray][bold]Judicial Record[/bold][/color]
+[color=#a0554f]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+This document formally registers a legal dispute, criminal proceeding, or appeal for judicial review.
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]CASE INFORMATION[/head]
+[bold]Filed By:[/bold] 
+──────────────────────────────────────────
+[head=3]PROSECUTION[/head]
+[bold]Prosecutor / Representative:[/bold] 
+──────────────────────────────────────────
+[head=3]DEFENSE[/head]
+[bold]Defendant:[/bold] 
+[bold]Legal Representative:[/bold] 
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]CASE SUMMARY[/head]
+──────────────────────────────────────────
+
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]REQUESTED ACTION[/head]
+──────────────────────────────────────────

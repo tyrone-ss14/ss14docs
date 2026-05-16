@@ -1,0 +1,23 @@
+#Judicial Decision Record
+[color=#a0554f]█▄ █ ▀█▀[/color] [head=3]JUDICIAL DECISION RECORD[/head]
+[color=#a0554f]█ ▀█[color=#eaedde] ░[/color]█[/color][color=#eaedde]░ [/color][color=DimGray][bold]Judicial Record[/bold][/color]
+[color=#a0554f]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Official record of judicial findings and rulings issued following review or court proceedings.
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]CASE INFORMATION[/head]
+[bold]Presiding Authority:[/bold] 
+──────────────────────────────────────────
+[head=3]INVOLVED PARTIES[/head]
+[bold]Plaintiff / Prosecutor:[/bold] 
+[bold]Defendant:[/bold] 
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]DECISION[/head]
+──────────────────────────────────────────
+
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]SENTENCE / ACTION[/head]
+──────────────────────────────────────────
+
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]NOTES[/head]
+──────────────────────────────────────────

@@ -1,0 +1,16 @@
+#Court Summons
+[color=#a0554f]█▄ █ ▀█▀[/color] [head=3]COURT SUMMONS[/head]
+[color=#a0554f]█ ▀█[color=#eaedde] ░[/color]█[/color][color=#eaedde]░ [/color][color=DimGray][bold]Judicial Notice[/bold][/color]
+[color=#a0554f]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
+Official notice requiring appearance before station judicial proceedings. Failure to comply may result in additional disciplinary or legal action.
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]SUMMONED INDIVIDUAL[/head]
+[bold]Name:[/bold] 
+[bold]Job Title:[/bold] 
+──────────────────────────────────────────
+[head=3]COURT INFORMATION[/head]
+[bold]Hearing Location:[/bold] Courtroom
+[bold]Shift Time:[/bold] 
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]REASON FOR SUMMONS[/head]
+──────────────────────────────────────────
