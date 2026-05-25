@@ -5,10 +5,16 @@
 This document formally registers a legal dispute, criminal proceeding, or appeal for judicial review.
 [color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]CASE INFORMATION[/head]
+──────────────────────────────────────────
+[head=2][/head]
+[head=3]vs.[/head]
+[head=2][/head]
+──────────────────────────────────────────
 [bold]Filed By:[/bold] 
 ──────────────────────────────────────────
 [head=3]PROSECUTION[/head]
-[bold]Prosecutor / Representative:[/bold] 
+[bold]Representative:[/bold] 
+[bold]Supporting Personell:[/bold] 
 ──────────────────────────────────────────
 [head=3]DEFENSE[/head]
 [bold]Defendant:[/bold] 

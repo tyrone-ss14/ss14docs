@@ -4,13 +4,17 @@
 [color=#a0554f]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀[/color]
 Official notice requiring appearance before station judicial proceedings. Failure to comply may result in additional disciplinary or legal action.
 [color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
-[head=3]SUMMONED INDIVIDUAL[/head]
+[head=3]SUMMONED PARTY[/head]
 [bold]Name:[/bold] 
-[bold]Job Title:[/bold] 
 ──────────────────────────────────────────
 [head=3]COURT INFORMATION[/head]
-[bold]Hearing Location:[/bold] Courtroom
+[bold]Location:[/bold] Courtroom
 [bold]Shift Time:[/bold] 
 [color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]REASON FOR SUMMONS[/head]
 ──────────────────────────────────────────
+
+[color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
+[head=3]NOTICE[/head]
+──────────────────────────────────────────
+This document serves as an official order to appear before station judicial proceedings. Failure to comply without valid justification may result in additional disciplinary action, contempt proceedings, or judgment in absence.

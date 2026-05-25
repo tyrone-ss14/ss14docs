@@ -12,6 +12,7 @@ Official record of judicial findings and rulings issued following review or cour
 [bold]Defendant:[/bold] 
 [color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
 [head=3]DECISION[/head]
+[color=DimGray][italic]Guilty / not guilty / upheld / dismissed / etc.[/italic][/color]
 ──────────────────────────────────────────
 
 [color=#a0554f]▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[/color]
